@@ -47,7 +47,7 @@ public class Analisador {
                     }
                 }
                 if(achou==false){
-                    retorno = "Terminal não esperado";
+                    retorno = "Terminal não esperad";
                     return retorno;
                 }
             }
